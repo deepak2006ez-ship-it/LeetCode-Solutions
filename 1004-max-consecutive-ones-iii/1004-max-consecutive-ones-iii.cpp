@@ -3,14 +3,17 @@ public:
     int longestOnes(vector<int>& nums, int k) {
         int left=0;
         int ans=0;
-        unordered_map<int,int>mp;
+        int zero=0;
         for(int right=0;right<nums.size();right++){
             if(nums[right]==0){
-                mp[nums[right]]++;
+                zero++;
             }
-            while(mp[nums[right]]>k){
-                mp[nums[left]]--;
-                left++;
+            while(zero>k){
+               if(nums[left]==0){
+                zero--;
+               }
+               left++;
+               
             }
             ans=max(ans,right-left+1);
         }
