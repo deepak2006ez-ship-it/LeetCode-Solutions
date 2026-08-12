@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -67,6 +68,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 ## String
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
