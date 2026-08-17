@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -121,6 +122,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
