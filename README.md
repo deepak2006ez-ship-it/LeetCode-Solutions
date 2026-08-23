@@ -80,6 +80,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -102,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -129,6 +131,7 @@
 | [0051-n-queens](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
