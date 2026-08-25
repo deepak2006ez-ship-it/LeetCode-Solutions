@@ -22,6 +22,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2121-intervals-between-identical-elements](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2845-count-of-interesting-subarrays](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2845-count-of-interesting-subarrays) |
 ## Hash Table
 |  |
@@ -136,4 +137,20 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Matrix
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
