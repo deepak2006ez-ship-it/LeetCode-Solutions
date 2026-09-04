@@ -24,8 +24,12 @@ public:
         Node*newHead;
         Node*prev=NULL;
         int idx=0;
+        unordered_map<Node*,int>mp1;
+        unordered_map<int,Node*>mp2;
         while(temp!=NULL){
             Node*newNode=new Node(temp->val);
+            mp2[idx]=newNode;
+            mp1[temp]=idx;
             if(idx!=0){
 
                 prev->next=newNode;
@@ -39,40 +43,21 @@ public:
             }
             idx++;
         }
-        temp=head;//again making temp to point to starting position
-        //copying random
+        temp=head;
         Node*temp1=newHead;
-        bool isNull=false;
-        
         while(temp!=NULL){
-            isNull=((temp->random)==NULL)?true:false;
-         
-            Node*temp2=newHead;
-            if(!isNull){
-                int posOriginal=0;
-                Node*randPointerOriginal=head;
-                while(randPointerOriginal!=temp->random){
-                    randPointerOriginal=randPointerOriginal->next;
-                    posOriginal++;
-                }
-                int posCopy=0;
-                while(posCopy!=posOriginal){
-                    posCopy++;
-                    temp2=temp2->next;
-                }
+            if(temp->random==NULL){
+                temp1->random=NULL;
 
             }else{
-                temp2=NULL;
+                int idx=mp1[temp->random];
+                temp1->random=mp2[idx];
+
             }
-           
             
-            temp1->random=temp2;
-            temp=temp->next;
             temp1=temp1->next;
-            isNull=false;
-
+            temp=temp->next;
         }
-
         return newHead;
         
         
