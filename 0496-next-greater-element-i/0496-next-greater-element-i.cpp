@@ -6,17 +6,15 @@ public:
         unordered_map<int,int>mp;
         vector<int>ans(n,-1);
         for(int i=0;i<nums2.size();i++){
-            if(!s.empty() && nums2[i]>nums2[s.top()]){
-                while(!s.empty() &&nums2[i]>nums2[s.top()]){
+            
+            while(!s.empty() &&nums2[i]>nums2[s.top()]){
 
                 ans[s.top()]=nums2[i];
                 s.pop();
                 
-                }
-                s.push(i);
-            }else{
-                s.push(i);
             }
+            
+            s.push(i);
             mp[nums2[i]]=i;
 
         }
