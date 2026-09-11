@@ -1,51 +1,35 @@
 class MinStack {
 public:
-    stack<long long>s;
-    long long int minVal;
+    vector<int>stack1;
+    vector<int>stack2ForMin;
     MinStack() {
         
     }
     
     void push(int value) {
-        if(s.empty()){
-            s.push(value);
-            minVal=value;
-        }
-        else if(value>=minVal){
-            s.push(value);
+        stack1.push_back(value);
+        if(stack2ForMin.size()==0){
+            stack2ForMin.push_back(value);
         }else{
-            long long val=2LL*value-minVal;//these we are doing so that when popping val from stack we can keep track of prev min value (minVal=2*value-val) val here while popping value will be curr min minVa
-            s.push(val);
-            minVal=value;
-            //val`=2(value)-minVal(these help to store both curr value and prev min,val` will be stored in stack(here val`==val))
-        }
-        
-    }
-    
-    void pop() {
-        if(s.top()>=minVal){
-            s.pop();
-        }else{
-            minVal=2*minVal-s.top();
-            s.pop();
-            
-        }
-        
-    }
-    
-    int top() {
-        if(s.top()>=minVal){
-            return s.top();
-        }else{
-            return minVal;
-            
+            int val=min(stack2ForMin[stack2ForMin.size()-1],value);
+            stack2ForMin.push_back(val);
         }
 
         
     }
     
+    void pop() {
+        stack1.pop_back();
+        stack2ForMin.pop_back();
+    }
+    
+    int top() {
+        return stack1[stack1.size()-1]; 
+    }
+    
     int getMin() {
-        return minVal;
+        return stack2ForMin[stack2ForMin.size()-1];
+        
     }
 };
 
