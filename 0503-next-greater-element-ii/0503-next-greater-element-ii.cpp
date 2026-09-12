@@ -5,23 +5,16 @@ public:
        stack<int>s;
         int n=nums.size();
         vector<int>ans(n,-1);
-        for(int i=0;i<nums.size();i++){
+        for(int i=0;i<2*nums.size();i++){
            
-            while(!s.empty() && nums[i]>nums[s.top()]){
-                ans[s.top()]=nums[i];
+            while(!s.empty() && nums[i%n]>nums[s.top()]){
+                ans[s.top()]=nums[i%n];
                 s.pop();
             }
-            s.push(i);
+            s.push(i%n);
 
         }
-        for(int i=0;i<nums.size();i++){
-           
-             while(!s.empty() && nums[i]>nums[s.top()]){
-                ans[s.top()]=nums[i];
-                s.pop();
-            }
-
-        }
+        
         return ans;
     }
 };
