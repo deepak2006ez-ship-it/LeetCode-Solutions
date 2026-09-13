@@ -15,22 +15,23 @@ public:
         Node*curr=head;
         while(curr!=NULL){
             if(curr->child!=NULL){
-                Node*next=curr->next;
+                Node*nextPt=curr->next;
                 curr->next=flatten(curr->child);
-                curr->child->prev=curr;
+                curr->next->prev=curr;
                 curr->child=NULL;
-                if(next!=NULL){
+
+                if(nextPt!=NULL){
                     while(curr->next!=NULL){
                         curr=curr->next;
-
                     }
-                    curr->next=next;
-                    next->prev=curr;
+                    curr->next=nextPt;
+                    nextPt->prev=curr;
                 }
+
+
             }
             curr=curr->next;
         }
         return head;
-        
     }
 };
