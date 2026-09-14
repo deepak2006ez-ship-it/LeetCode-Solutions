@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -112,6 +113,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -129,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -196,6 +199,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -213,6 +217,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
