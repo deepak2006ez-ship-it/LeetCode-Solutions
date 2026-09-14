@@ -202,6 +202,7 @@
 | [0042-trapping-rain-water](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0901-online-stock-span) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
