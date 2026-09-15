@@ -1,47 +1,44 @@
 class MyStack {
 public:
     list<int>l1;
-    list<int>l2;
+    int currSize=0;
     MyStack() {
         
     }
     
     void push(int x) {
         l1.push_back(x);
+        currSize++;
     }
     
     int pop() {
-        while(l1.size()!=1){
-            l2.push_back(l1.front());
+        while(currSize!=1){
+            l1.push_back(l1.front());
             l1.pop_front();
+            currSize--;
+
         }
         int val=l1.front();
         l1.pop_front();
-        while(!l2.empty()){
-            l1.push_back(l2.front());
-            l2.pop_front();
-
-        }
+        currSize=l1.size();
         return val;
 
         
     }
     
     int top() {
-        while(l1.size()!=1){
-            l2.push_back(l1.front());
+        while(currSize!=1){
+            l1.push_back(l1.front());
             l1.pop_front();
-        }
-        int val=l1.front();
-        l2.push_back(l1.front());
-        l1.pop_front();
-        
-        while(!l2.empty()){
-            l1.push_back(l2.front());
-            l2.pop_front();
+            currSize--;
 
         }
+        int val=l1.front();
+        l1.push_back(val);
+        l1.pop_front();
+        currSize=l1.size();
         return val;
+        
         
     }
     
