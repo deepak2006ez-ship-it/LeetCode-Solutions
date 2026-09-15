@@ -35,6 +35,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -92,6 +93,7 @@
 | [0125-valid-palindrome](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -109,6 +111,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
@@ -239,4 +242,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
