@@ -1,47 +1,50 @@
 class MyQueue {
 public:
-    list<int>l1;//storing actual elemnt sequence
-    list<int>l2;//storing reverse order so that deletion happen from start
+    list<int>l1;
+    list<int>l2;
     MyQueue() {
         
     }
     
     void push(int x) {
-        l1.push_back(x); 
+        l1.push_back(x);
     }
     
     int pop() {
-        while(l1.size()!=1){
-            l2.push_back(l1.back());
-            l1.pop_back();
+        int val;
+        if(l2.empty()){
+
+            while(!l1.empty() ){
+                l2.push_back(l1.back());
+                l1.pop_back();
+            }
         }
-        int val=l1.back();
-        l1.pop_back();
-        while(!l2.empty()){
-            l1.push_back(l2.back());
-            l2.pop_back();
-        }
-        return val;
-    }
-    
-    int peek() {
-        while(l1.size()!=1){
-            l2.push_back(l1.back());
-            l1.pop_back();
-        }
-        int val=l1.back();
+
+        val=l2.back();
+        l2.pop_back();
         
-        while(!l2.empty()){
-            l1.push_back(l2.back());
-            l2.pop_back();
-        }
         return val;
+        
 
         
     }
     
+    int peek() {
+        if(l2.empty()){
+        while(!l1.empty()){
+            l2.push_back(l1.back());
+            l1.pop_back();
+        }
+
+        }
+       
+        
+        return l2.back();
+        
+    }
+    
     bool empty() {
-        return l1.size()==0;
+        return l1.size()==0 && l2.size()==0;
     }
 };
 
