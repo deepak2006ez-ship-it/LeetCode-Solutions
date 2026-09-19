@@ -167,12 +167,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
@@ -266,9 +268,11 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
