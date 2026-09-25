@@ -98,6 +98,7 @@
 | [0020-valid-parentheses](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -162,6 +163,7 @@
 | [0078-subsets](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Algorithm X
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [0100-same-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -278,6 +281,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -287,6 +291,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
