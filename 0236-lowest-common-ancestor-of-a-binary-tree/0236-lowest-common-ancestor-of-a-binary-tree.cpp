@@ -21,17 +21,14 @@ public:
         if(left!=NULL && right!=NULL){
             return root;
         }
-        if(left!=NULL && right==NULL){
-            return left;
-        }
-        if(right!=NULL && left==NULL){
+        else if(left==NULL || right!=NULL){
             return right;
+        }
+        else if(right==NULL ||left!=NULL){
+            return left;
         }else{
             return NULL;
         }
 
-        
-
-        
     }
 };
