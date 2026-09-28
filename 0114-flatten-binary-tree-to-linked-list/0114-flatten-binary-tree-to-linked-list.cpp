@@ -12,27 +12,32 @@
  */
 class Solution {
 public:
-    vector<TreeNode*> inorderSeq;
-    void helper(TreeNode* root) {
-        if (root == NULL) {
-            return;
-        }
-        inorderSeq.push_back(root);
-        helper(root->left);
-        helper(root->right);
-    }
     void flatten(TreeNode* root) {
-        if (root != NULL) {
-
-            helper(root);
-            TreeNode* start = root;
-
-            for (int i = 1; i < inorderSeq.size(); i++) {
-                start->right = inorderSeq[i];
-                start->left = NULL;
-                start = inorderSeq[i];
+        TreeNode* curr = root;
+        while (curr != NULL) {
+            if(curr->left==NULL){
+                curr=curr->right;
             }
-            start->right = NULL;
+            else if (curr->left != NULL) {
+
+                TreeNode* predecessor = curr->left;
+                TreeNode* currRight = curr->right;
+                while (predecessor->right != NULL &&
+                       predecessor->right != curr) {
+                    predecessor = predecessor->right;
+                }
+                if (predecessor->right == NULL) {
+                    predecessor->right = curr;
+                    curr = curr->left;
+                } else if (predecessor->right == curr) {
+                    currRight = curr->right;
+                    
+                    curr->right = curr->left;
+                    curr->left=NULL;
+                    predecessor->right = currRight;
+                    curr = currRight;
+                }
+            }
         }
     }
 };
