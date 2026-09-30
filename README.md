@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -286,6 +287,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -298,6 +300,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -322,4 +325,9 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
