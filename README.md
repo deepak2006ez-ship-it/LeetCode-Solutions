@@ -182,6 +182,7 @@
 | [0257-binary-tree-paths](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -189,6 +190,7 @@
 | [0100-same-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -296,6 +298,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -311,6 +314,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
 | ------- |
@@ -338,4 +342,5 @@
 | [0098-validate-binary-search-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
