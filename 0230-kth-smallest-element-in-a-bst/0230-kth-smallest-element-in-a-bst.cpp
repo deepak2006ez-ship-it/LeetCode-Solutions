@@ -11,21 +11,28 @@
  */
 class Solution {
 public:
-    vector<int>inorderSeq;
-    void buildInorder(TreeNode*root,int k){
-        if(root==NULL){
-            return;
-        }
-        buildInorder(root->left,k);
-        inorderSeq.push_back(root->val);
-        buildInorder(root->right,k);
-    }
+    int prevOrder=0;
     int kthSmallest(TreeNode* root, int k) {
-        buildInorder(root,k);
-        int find=0;
-        while(find<(k-1)){
-            find++;
+        if(root==NULL){
+            return -1;//here -1 indicate we havent found the ans so far
         }
-        return inorderSeq[find];
+        if(root->left!=NULL){
+            int leftAns=kthSmallest(root->left,k);
+            if(leftAns!=-1){
+                return leftAns;
+            }
+        }
+        if(prevOrder+1==k){
+            return root->val;
+        }
+        prevOrder=prevOrder+1;
+        if(root->right!=NULL){
+            int rightAns=kthSmallest(root->right,k);
+            if(rightAns!=-1){
+                return rightAns;
+            }
+        }
+        return -1;
+
     }
 };
