@@ -15,15 +15,14 @@ public:
         if(root==NULL){
             return true;
         }
-        if(minVal!=NULL && root->val<=minVal->val){
+        if(minVal!=NULL && minVal->val>=root->val){
             return false;
         }
-        if(maxVal!=NULL && root->val>=maxVal->val){
+        if(maxVal!=NULL && maxVal->val<=root->val){
             return false;
         }
-        return helper(root->left,minVal,root)&& helper(root->right,root,maxVal);
+        return helper(root->left,minVal,root) && helper(root->right,root,maxVal);
     }
-
     bool isValidBST(TreeNode* root) {
         return helper(root,NULL,NULL);
         
