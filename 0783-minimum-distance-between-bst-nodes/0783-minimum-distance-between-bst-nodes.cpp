@@ -11,22 +11,24 @@
  */
 class Solution {
 public:
-    vector<int>inorderSeq;
-    void helper(TreeNode*root){
-        if(root==NULL){
-            return;
-        }
-        helper(root->left);
-        inorderSeq.push_back(root->val);
-        helper(root->right);
-
-    }
+    TreeNode*prev=NULL;
+    
     int minDiffInBST(TreeNode* root) {
-        helper(root);
+        if(root==NULL){
+            return INT_MAX;
+        }
         int ans=INT_MAX;
-        for(int i=1;i<inorderSeq.size();i++){
-            ans=min(ans,inorderSeq[i]-inorderSeq[i-1]);
-           
+        if(root->left!=NULL){
+            int leftMin=minDiffInBST(root->left);
+            ans=min(ans,leftMin);
+        }
+        if(prev!=NULL){
+            ans=min(ans,root->val-prev->val);
+        }
+        prev=root;
+        if(root->right!=NULL){
+            int rightMin=minDiffInBST(root->right);
+            ans=min(ans,rightMin);
         }
         return ans;
         
