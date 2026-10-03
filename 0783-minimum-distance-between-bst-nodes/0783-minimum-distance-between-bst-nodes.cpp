@@ -12,7 +12,6 @@
 class Solution {
 public:
     TreeNode*prev=NULL;
-    
     int minDiffInBST(TreeNode* root) {
         if(root==NULL){
             return INT_MAX;
@@ -31,6 +30,5 @@ public:
             ans=min(ans,rightMin);
         }
         return ans;
-        
     }
 };
