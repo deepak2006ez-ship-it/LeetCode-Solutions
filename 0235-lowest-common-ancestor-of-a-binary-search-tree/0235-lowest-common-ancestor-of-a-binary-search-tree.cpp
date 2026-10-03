@@ -22,13 +22,9 @@ public:
     TreeNode*rightVal=NULL; 
         if(root->val>p->val || root->val>q->val){
             leftVal=lowestCommonAncestor(root->left,p,q);
-        }else{
-            leftVal=NULL;
         }
         if(root->val<p->val || root->val<q->val){
             rightVal=lowestCommonAncestor(root->right,p,q);
-        }else{
-            rightVal=NULL;
         }
 
 
