@@ -26,6 +26,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2121-intervals-between-identical-elements](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
@@ -242,6 +243,7 @@
 | [0496-next-greater-element-i](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [0496-next-greater-element-i](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -304,6 +307,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -322,6 +326,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -354,4 +359,5 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
