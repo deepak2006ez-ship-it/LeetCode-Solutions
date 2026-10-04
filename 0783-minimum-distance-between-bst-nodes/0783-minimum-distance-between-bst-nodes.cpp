@@ -18,16 +18,18 @@ public:
         }
         int ans=INT_MAX;
         if(root->left!=NULL){
-            int leftMin=minDiffInBST(root->left);
-            ans=min(ans,leftMin);
+            int left=minDiffInBST(root->left);
+            ans=min(ans,left);
+
         }
         if(prev!=NULL){
             ans=min(ans,root->val-prev->val);
         }
         prev=root;
         if(root->right!=NULL){
-            int rightMin=minDiffInBST(root->right);
-            ans=min(ans,rightMin);
+            int right=minDiffInBST(root->right);
+            ans=min(ans,right);
+            
         }
         return ans;
     }
