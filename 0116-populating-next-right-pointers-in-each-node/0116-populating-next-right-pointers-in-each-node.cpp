@@ -18,47 +18,37 @@ public:
 
 class Solution {
 public:
-    vector<Node*> inorder;
-    Node* prev = NULL;
-    void helper(Node* root) {
-        queue<Node*> q;
-        q.push(root);
-        q.push(NULL);
-        while (!q.empty()) {
-            Node* curr = q.front();
-            q.pop();
-            if (curr == NULL) {
-                if (!q.empty()) {
-                    inorder.push_back(NULL);
-                    q.push(NULL);
-                    continue;
-                } else {
-                    break;
-                }
-            }
-            inorder.push_back(curr);
-            if (curr->left != NULL) {
-                q.push(curr->left);
-            }
-            if (curr->right != NULL) {
-                q.push(curr->right);
-            }
-        }
-        int n = inorder.size() - 1;
-        for (int i = n; i >= 0; i--) {
-            if (inorder[i] == NULL) {
-                prev = NULL;
-
-            } else {
-                inorder[i]->next = prev;
-                prev = inorder[i];
-            }
-        }
-    }
     Node* connect(Node* root) {
         if (root != NULL) {
 
-            helper(root);
+            Node* prev = NULL;
+            queue<Node*> q;
+            q.push(root);
+            q.push(NULL);
+            while (!q.empty()) {
+                Node* curr = q.front();
+                q.pop();
+                if (curr == NULL) {
+                    if (!q.empty()) {
+                        prev = NULL;
+                        q.push(NULL);
+                        continue;
+                    } else {
+                        break;
+                    }
+                } else {
+                    if (curr->left != NULL) {
+                        q.push(curr->left);
+                    }
+                    if (curr->right != NULL) {
+                        q.push(curr->right);
+                    }
+                    if (prev != NULL) {
+                        prev->next = curr;
+                    }
+                }
+                prev = curr;
+            }
         }
         return root;
     }
