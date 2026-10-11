@@ -12,30 +12,29 @@
 class BSTIterator {
 public:
     stack<TreeNode*>s;
-    void storeLeft(TreeNode*root){
+    void left(TreeNode*root){
         while(root!=NULL){
             s.push(root);
             root=root->left;
         }
     }
     BSTIterator(TreeNode* root) {
-        storeLeft(root);
+        left(root);
+        
     }
     
     int next() {
-        TreeNode* ans=s.top();
+        TreeNode*curr=s.top();
         s.pop();
-        if(ans->right!=NULL){
-            storeLeft(ans->right);
+        if(curr->right!=NULL){
+            left(curr->right);
         }
-        return ans->val;
-
+        return curr->val;
         
     }
     
     bool hasNext() {
         return s.size()>0;
-        
     }
 };
 
