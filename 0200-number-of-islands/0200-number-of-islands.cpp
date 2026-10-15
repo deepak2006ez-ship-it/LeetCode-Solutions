@@ -1,17 +1,16 @@
 class Solution {
 public:
-    void isHelper(vector<vector<char>>& grid,vector<vector<bool>> &vis,int i,int j){
-        int r=grid.size();
-        int c=grid[0].size();
+    void isHelper(vector<vector<char>>& grid,vector<vector<bool>> &vis,int i,int j,int r,int c){
+        
         if(i>=r||j>=c|| i<0 ||j<0||   grid[i][j]=='0'|| vis[i][j]==true){
             return;
         }
        int element=grid[i][j];
        vis[i][j]=true;
-       isHelper(grid,vis,i+1,j);
-       isHelper(grid,vis,i,j+1);
-       isHelper(grid,vis,i-1,j);
-       isHelper(grid,vis,i,j-1);
+       isHelper(grid,vis,i+1,j,r,c);
+       isHelper(grid,vis,i,j+1,r,c);
+       isHelper(grid,vis,i-1,j,r,c);
+       isHelper(grid,vis,i,j-1,r,c);
 
 
 
@@ -24,8 +23,8 @@ public:
         for (int i = 0; i < r; i++) {
             for (int j = 0; j <grid[i].size(); j++) {
                 if(!vis[i][j] && grid[i][j]=='1'){
-                    isHelper(grid,vis,i,j);
-                    cout<<"running";
+                    isHelper(grid,vis,i,j,r,c);
+                    
                     ans++;
                 }
                
