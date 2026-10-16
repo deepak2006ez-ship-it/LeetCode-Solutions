@@ -5,7 +5,7 @@ public:
                          vector<vector<bool>>& visited, queue<pair<int,int>>& q, int r,
                          int c) {
         q.push({-1, -1});
-        while (!q.empty()) {
+        while (q.size()>1) {
             bool isOneExistNearby=false;
 
             while (q.front().first != -1) {
@@ -39,9 +39,7 @@ public:
                 ans++;
             }
             q.pop();
-            if(q.size()<=1){
-                break;
-            }
+            
         }
     }
     int orangesRotting(vector<vector<int>>& grid) {
