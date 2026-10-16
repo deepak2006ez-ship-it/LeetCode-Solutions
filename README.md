@@ -26,6 +26,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -204,11 +205,13 @@
 | [0200-number-of-islands](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
