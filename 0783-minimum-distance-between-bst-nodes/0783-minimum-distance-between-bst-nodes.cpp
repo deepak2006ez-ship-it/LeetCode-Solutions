@@ -11,26 +11,22 @@
  */
 class Solution {
 public:
+    int ans=INT_MAX;
     TreeNode*prev=NULL;
-    int minDiffInBST(TreeNode* root) {
+    void find(TreeNode*root){
         if(root==NULL){
-            return INT_MAX;
+            return ;
         }
-        int ans=INT_MAX;
-        if(root->left!=NULL){
-            int left=minDiffInBST(root->left);
-            ans=min(ans,left);
-
-        }
+        find(root->left);
         if(prev!=NULL){
             ans=min(ans,root->val-prev->val);
         }
         prev=root;
-        if(root->right!=NULL){
-            int right=minDiffInBST(root->right);
-            ans=min(ans,right);
-            
-        }
+        find(root->right);
+    }
+    int minDiffInBST(TreeNode* root) {
+        find(root);
         return ans;
+        
     }
 };
