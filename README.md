@@ -194,6 +194,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -210,6 +211,7 @@
 | [0207-course-schedule](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -409,11 +411,13 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
