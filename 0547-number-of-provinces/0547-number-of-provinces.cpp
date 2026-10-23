@@ -33,7 +33,7 @@ public:
         }
         for(int i=0;i<n;i++){
             par.push_back(i);
-            rank.push_back(i);
+            rank.push_back(0);
         }
         for(int i=0;i<n;i++){
             for(auto &v:adjList[i]){
