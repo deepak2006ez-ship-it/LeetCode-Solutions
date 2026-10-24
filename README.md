@@ -31,6 +31,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2121-intervals-between-identical-elements](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -412,12 +413,14 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -427,4 +430,20 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
