@@ -89,6 +89,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -145,6 +147,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
