@@ -1,15 +1,16 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int prev2=0;
-        int prev1=0;
-        int result=0;
-        for(int i=0;i<nums.size();i++){
-            result=max(prev2+nums[i],prev1);
-            prev2=prev1;
-            prev1=result;
+        int n=nums.size();
+        if(n==1){
+            return nums[0];
+                }        
+        vector<int>dp(n,0);//it represent max amount that can stolen at index i by keeping in mind that adjacent house cant be stolen
+        dp[0]=nums[0];
+        dp[1]=max(nums[0],nums[1]);
+        for(int i=2;i<n;i++){
+            dp[i]=max(dp[i-2]+nums[i],dp[i-1]);
         }
-        return prev1;
-        
+        return dp[n-1];
     }
 };
