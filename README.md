@@ -93,6 +93,7 @@
 | [0070-climbing-stairs](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [3360-stone-removal-game](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3360-stone-removal-game](https://github.com/deepak2006ez-ship-it/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Linked List
 |  |
 | ------- |
